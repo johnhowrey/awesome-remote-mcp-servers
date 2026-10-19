@@ -359,6 +359,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Delve to Life](https://delvetolife.com/ai/) `https://mcp.delvetolife.com/mcp`
   [![Delve to Life MCP connector](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life/badges/score.svg)](https://glama.ai/mcp/connectors/com.delvetolife.mcp/delve-to-life)
   🔓 - Dress codes explained, outfit formulas by occasion and weather, and clothing colour combinations.
+- [Design Check](https://designcheck.allthepossibles.com) `https://designcheck.allthepossibles.com/mcp`
+  [![Design Check MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/designcheck/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/designcheck)
+  🔓 - Tells you whether a page reads as AI-generated and why, from the rendered page.
 - [Designesy](https://www.designesy.org) `https://www.designesy.org/api/mcp`
   [![Designesy MCP connector](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LE-VAI/designesy-org)
   🔓 - Scores any live URL against a 42-check design contract, validates DTCG tokens, and diffs two design systems.
@@ -424,6 +427,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
+- [Verdict](https://verdict.allthepossibles.com) `https://verdict.allthepossibles.com/mcp`
+  [![Verdict MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/verdict/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/verdict)
+  🔓 - Six design-review tools that run before a design ships.
 - [Whimsical](https://whimsical.com/mcp) `https://mcp.whimsical.com/mcp`
   [![Whimsical MCP connector](https://glama.ai/mcp/connectors/com.whimsical/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.whimsical/mcp)
   🔐 - Turn prompts into editable flowcharts, mind maps, sequence diagrams and wireframes, and search your Whimsical workspace.
@@ -1010,6 +1016,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Aggregate](https://theaggregate.ai/mcp) `https://theaggregate.ai/mcp`
   [![The Aggregate MCP connector](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate/badges/score.svg)](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate)
   🔓 - LLM rankings fitted across public benchmarks: leaderboard, model profiles, comparisons and source-linked scores.
+- [Toolbox](https://toolbox.allthepossibles.com) `https://toolbox.allthepossibles.com/mcp`
+  [![Toolbox MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox)
+  🔓 - Thirteen small deterministic tools for agent builders, from CLAUDE.md lint to JWT decoding.
 - [ToolForte](https://toolforte.com/mcp) `https://toolforte.com/api/mcp`
   [![ToolForte MCP connector](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Toinedotcom/toolforte)
   🔓 - IBAN/VAT/BSN checks, Dutch tax and dates, cron, regex, conversions and PDF or screenshot rendering.
@@ -2551,6 +2560,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NotWorking](https://notworking.io) `https://notworking.io/mcp`
   [![NotWorking MCP connector](https://glama.ai/mcp/connectors/io.notworking/notworking/badges/score.svg)](https://glama.ai/mcp/connectors/io.notworking/notworking)
   🔓 - Check if other agents report a site, skill or MCP server failing, see its other access paths, and report failures.
+- [Pulse](https://pulse.allthepossibles.com) `https://pulse.allthepossibles.com/mcp`
+  [![Pulse MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/pulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/pulse)
+  🔓 - Real Core Web Vitals from the Chrome UX Report for any URL, with a pass or fail verdict.
 - [Relvato](https://www.relvato.com/developers) `https://app.relvato.com/api/mcp`
   [![Relvato MCP connector](https://glama.ai/mcp/connectors/com.relvato/relvato/badges/score.svg)](https://glama.ai/mcp/connectors/com.relvato/relvato)
   🔓 - Real-browser website monitoring, deepest on WordPress & WooCommerce: run checks, read results; tools need a free key.
@@ -3400,6 +3412,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [Preflight](https://preflight.allthepossibles.com) `https://preflight.allthepossibles.com/mcp`
+  [![Preflight MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/preflight)
+  🔓 - Scans an MCP server for security gaps before your agent connects.
 - [Prompt Injection Scanner](https://tools.openkrill.app/#injection-scan) `https://injectionscan.openkrill.app/mcp`
   [![Prompt Injection Scanner MCP connector](https://glama.ai/mcp/connectors/app.openkrill/injection-scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/injection-scan)
   🔓 - Check text before your agent reads it: hidden instructions, invisible characters and links that leak data.
