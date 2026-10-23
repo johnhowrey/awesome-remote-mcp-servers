@@ -514,6 +514,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UXKIN](https://uxkin.com) `https://uxkin.com/mcp`
   [![UXKIN MCP connector](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.uxkin/uxkin)
   🔐 - Real iOS app screens, user journeys and website design systems for AI coding agents.
+- [Verdict](https://verdict.allthepossibles.com) `https://verdict.allthepossibles.com/mcp`
+  [![Verdict MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/verdict/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/verdict)
+  🔓 - Six design-review tools that run before a design ships.
 - [Whimsical](https://whimsical.com/mcp) `https://mcp.whimsical.com/mcp`
   [![Whimsical MCP connector](https://glama.ai/mcp/connectors/com.whimsical/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.whimsical/mcp)
   🔐 - Turn prompts into editable flowcharts, mind maps, sequence diagrams and wireframes, and search your Whimsical workspace.
