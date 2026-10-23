@@ -4409,6 +4409,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Phishunt](https://phishunt.io) `https://mcp.phishunt.io/`
   [![Phishunt MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/phishunt)
   🔓 - Public phishing-domain feed: check a domain, search detections by brand, and pivot on campaigns and certs.
+- [Preflight](https://preflight.allthepossibles.com) `https://preflight.allthepossibles.com/mcp`
+  [![Preflight MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/preflight/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/preflight)
+  🔓 - Scans an MCP server for security gaps before your agent connects.
 - [PkgGuard](https://api.youraitools.co/pkgguard/) `https://api.youraitools.co/pkgguard/mcp`
   [![PkgGuard MCP connector](https://glama.ai/mcp/connectors/co.youraitools/pkgguard/badges/score.svg)](https://glama.ai/mcp/connectors/co.youraitools/pkgguard)
   🔓 - Checks packages and lockfiles against OSV.dev for known vulnerabilities and malware; 30 free calls/day, then x402 USDC.
