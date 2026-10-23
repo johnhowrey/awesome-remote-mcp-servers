@@ -1306,6 +1306,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Aggregate](https://theaggregate.ai/mcp) `https://theaggregate.ai/mcp`
   [![The Aggregate MCP connector](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate/badges/score.svg)](https://glama.ai/mcp/connectors/ai.theaggregate/the-aggregate)
   🔓 - LLM rankings fitted across public benchmarks: leaderboard, model profiles, comparisons and source-linked scores.
+- [Toolbox](https://toolbox.allthepossibles.com) `https://toolbox.allthepossibles.com/mcp`
+  [![Toolbox MCP connector](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox/badges/score.svg)](https://glama.ai/mcp/connectors/com.allthepossibles/toolbox)
+  🔓 - Thirteen small deterministic tools for agent builders, from CLAUDE.md lint to JWT decoding.
 - [TidyData Tools](https://developers.tidydata.workers.dev/) `https://tidydata-api.tidydata.workers.dev/mcp`
   [![TidyData Tools MCP connector](https://glama.ai/mcp/connectors/dev.workers.tidydata.tidydata-api/tidy-data-tools/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.tidydata.tidydata-api/tidy-data-tools)
   🔓 - Everyday data tools: public holidays, currency rates, time zones, airports, nutrition, QR codes, DNS and WHOIS.
